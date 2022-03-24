@@ -19,4 +19,6 @@
 2. The alert should print the randomized password with the length specified by the user.
 ## Bonus Acceptance Critera
 1. Must start with an alert requiring a character limit of 50 or under with input from user.
-2. Number of characters in returned randomized password must reflect the length specified by user. 
+2. If the user inputs over 50 characters, then there must be a second alert giving an error message.
+3. The alert should start over asking th euser to input their character limit after the error message.
+4. Number of characters in returned randomized password must reflect the length specified by user. 
