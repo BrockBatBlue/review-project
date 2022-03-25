@@ -4,7 +4,7 @@
 3. Test your code as you go using console.log()
 4. Push the repo to your own GitHub
 5. Deploy the site
-6. Submit your repo link AND your deployed link to Adam
+6. Submit your repo link AND your deployed link to Adam AND Mimi
 
 # Acceptance Criteria
 1. Must have a working array with symbols, uppercase characters, lowercase characters, and numbers
